@@ -1,0 +1,56 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Bugly (2.5.0)
+  - GDataXML-HTML (1.4.1)
+  - MBProgressHUD (1.0.0)
+  - MJRefresh (3.1.12)
+  - WechatOpenSDK (1.8.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.0)
+  - Bugly
+  - GDataXML-HTML (~> 1.4)
+  - MBProgressHUD (~> 1.0)
+  - MJRefresh (~> 3.1)
+  - WechatOpenSDK
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - Bugly
+    - GDataXML-HTML
+    - MBProgressHUD
+    - MJRefresh
+    - WechatOpenSDK
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  Bugly: 3ca9f255c01025582df26f9222893b383c7e4b4e
+  GDataXML-HTML: a4f11079b48d9fe96ff1fe478943a317185227e2
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  WechatOpenSDK: 676feec516a11173eafd1fe64b10d27babf28701
+
+PODFILE CHECKSUM: bf6d8e4b8de7e1313eed3b3a2595c9f750ae8e1d
+
+COCOAPODS: 1.5.0

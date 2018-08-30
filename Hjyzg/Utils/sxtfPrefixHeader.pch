@@ -1,0 +1,17 @@
+//
+//  sxtfPrefixHeader.pch
+//  Hjyzg
+//
+//  Created by GengKC on 2018/4/19.
+//  Copyright © 2018年 ShenXinTaiFu. All rights reserved.
+//
+
+#ifndef sxtfPrefixHeader_pch
+#define sxtfPrefixHeader_pch
+
+#import "ZjyzUiMacros.h"
+
+#import "WebRequestHelper.h"
+#import "UtilTools.h"
+
+#endif /* sxtfPrefixHeader_pch */
